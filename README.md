@@ -23,8 +23,13 @@ https://developer.ibm.com/patterns/create-cognitive-retail-chatbot/
 **Group 3:**
 https://developer.ibm.com/patterns/create-cognitive-banking-chatbot/
 
-
 ### Workshop 4
+
+- (Node-Red) https://github.com/IBMCodeLondon/AI_APIs_Workshops/blob/master/AI_APIs_VR/lab1.md
+
+- (Watson Studio) https://github.com/IBMCodeLondon/AI_APIs_Workshops/blob/master/AI_APIs_VR/lab2.md
+
+### Workshop 5
 
 https://github.com/IBMCodeLondon/analysing-media-archives-workshop/blob/master/README.md
 
