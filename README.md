@@ -1,14 +1,14 @@
 # Craft a cognitive product in a day
 
-## Workshop 1
+### Workshop 1
 
 https://github.com/IBMCodeLondon/Node-RED-Watson-101/blob/master/README.md
 
-## Workshop 2
+### Workshop 2
 
 https://github.com/IBMCodeLondon/AI_APIs_Workshops/blob/master/AI_APIs_101/README.md
 
-## Workshop 3
+### Workshop 3
 
 https://github.com/IBMCodeLondon/chatbot-workshop/blob/master/training.md
 
@@ -24,7 +24,7 @@ https://developer.ibm.com/patterns/create-cognitive-retail-chatbot/
 https://developer.ibm.com/patterns/create-cognitive-banking-chatbot/
 
 
-## Workshop 4
+### Workshop 4
 
 https://github.com/IBMCodeLondon/analysing-media-archives-workshop/blob/master/README.md
 
